@@ -1,0 +1,11 @@
+"Problem statement" 
+The IPL, known as the "cricket carnival," is a global phenomenon. This Sports Basics special edition magazine analyzes three years of data, including player statistics, team dynamics, and strategic moves. We explore the stories that have shaped IPL cricket and reveal which teams perform well under pressure, which players excel in specific conditions, and how strategies evolve during high-stakes encounters. Whether you're a die-hard fan or just curious, this data-driven journey will enhance your understanding of the game.
+"TOOLS & APPROACH "
+Power BI- Dax Measures and Visualization tools.
+ "FINDINGS & SOLUTIONS "
+1. The Chennai Super Kings (CSK) team has been one of the most consistent performers in the IPL over a long period, while the Kolkata Knight Riders (KKR) performance has significantly dropped over the years. Additionally, the Lucknow Super Giants are an upcoming and promising team with immense potential.
+2. Yashasvi Jaiswal is a highly talented opening batsman, known for his brilliant performances in the IPL. He has the highest score of 124 runs in the tournament and is regarded as one of the most skilful and promising batsmen in the league. Similarly, Devon Conway is another talented opener who has the highest batting average in the IPL as an opener, making him a key player for any team.
+
+3. Chris Woakes is one of the top fast bowlers in the IPL, known for his exceptional skills and performances. He has the highest economy rate of 7.45 in the league, which is a testament to his consistency and accuracy as a bowler. Shreyas Gopal is another highly promising spinner, known for his impressive dot ball percentage of 0.30. He has the potential to become a top-rated spinner in the IPL in the coming years.
+
+4. Andre Russell and David Wiese are two of the most talented all-rounders in the history of the IPL. Andre Russell has a strike rate of 159.6 and an economy rate of 10.6, making him one of the most lethal all-rounders in the league. Similarly, David Wiese has an impressive strike rate of 190 and an economy rate of 12.67, making him a valuable asset for any team. Their skills and performances have made them a fan favourite and an integral part of their respective teams.
